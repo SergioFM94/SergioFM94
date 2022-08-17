@@ -1,4 +1,26 @@
-### Hi there 👋
+## Sergio Fernández Muyor👋
+### Desarrollador web
+
+📫 HABILIDADES 📫
+ - Java
+ - PHP
+ - JavaScript 
+ - MySQL
+ - GIT
+ - MVC
+ - Leaflet.js
+ 
+
+🌱 APRENDIENDO 🌱
+ - React
+ - SAAS
+ - Bootstrap
+ - Node.js
+
+### Sobre mi 😄
+Apasionado por el diseño, actualmente titulado en DAW.
+Buscando dedicarme profesionalmente a lo que realmente me gusta, la programación.
+Mi formación se la debo al café y la música lo-fi. Ya que he compaginado estudios con una jornada laboral completa.
 
 <!--
 **SergioFM94/SergioFM94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
