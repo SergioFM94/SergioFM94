@@ -2,7 +2,6 @@
 ### Desarrollador web
 
 📫 HABILIDADES 📫
- - Java
  - PHP
  - JavaScript 
  - MySQL
